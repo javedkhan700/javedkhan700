@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180px"/>
 
-# Hi 👋, I'm YOUR_NAME
+# Hi 👋, I'm JAVED KHAN
 
 ### 🚀 Passionate Developer | Open Source Enthusiast | Lifelong Learner
 
@@ -40,8 +40,8 @@ I'm a passionate software developer who enjoys building scalable applications an
 
 ### 🎓 Education
 
-**Bachelor of Technology (B.Tech)**  
-**Computer Science & Engineering**
+Bachelor of Technology (B.Tech)
+Computer Science & Engineering(AIML)
 
 ### ⚙️ Current Interests
 
@@ -54,7 +54,6 @@ I'm a passionate software developer who enjoys building scalable applications an
 
 - Software Engineering Internships
 - Open Source Collaboration
-- Freelance Projects
 - Full-time Opportunities
 
 ---
