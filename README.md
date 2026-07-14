@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm JAVED KHAN
 
-### 🚀 Passionate Developer | Open Source Enthusiast | Lifelong Learner
+### 🚀 Passionate Developer  | Lifelong Learner
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Technologies" />
@@ -35,11 +35,10 @@
 I'm a passionate software developer who enjoys building scalable applications and solving real-world problems with technology.
 
 - 🌱 Currently learning modern web technologies and cloud computing.
-- 💡 Interested in Full Stack Development, AI, and Open Source.
+- 💡 Interested in Full Stack Development, AI, Python and Open Source.
 - 🎯 Love building useful and impactful projects.
 
 ### 🎓 Education
-
 Bachelor of Technology (B.Tech)
 Computer Science & Engineering(AIML)
 
